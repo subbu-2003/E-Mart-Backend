@@ -1,0 +1,6 @@
+@E_MarkBack_HostAddress = http://localhost:5185
+
+GET {{E_MarkBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
